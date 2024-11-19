@@ -1,1 +1,1 @@
-vless://51e3e793-f653-45c7-8ee3-b8d351dbbc24@204.216.106.78:443?type=tcp&path=%2F&host=gitlab.com&headerType=http&security=none#montreal-dx
+vless://94744199-2569-47f0-a41c-60b6c37c9c4e@68.233.121.126:443?type=tcp&security=reality&pbk=Wubq9Mh7OBTTPpcHOpwSLIAK8bHXVYCUTsqACzbcuww&fp=chrome&sni=support.apple.com&sid=07ae&spx=%2F#mnt-Dexter
