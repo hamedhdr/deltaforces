@@ -1,1 +1,1 @@
-vless://7466a5b2-a066-4b7f-9e16-185912708a22@155.248.235.198:443?type=tcp&security=reality&pbk=GPrq6mhASiv6djDIkoVzooSZMExDqpjnoyPpP4F4qkY&fp=firefox&sni=support.apple.com&sid=b8a17fb66c6f20&spx=%2F&flow=xtls-rprx-vision#mnt-dexter
+vless://88e06fca-73e5-499a-ad33-c82c0b0b1d75@168.138.76.119:443?type=tcp&security=reality&pbk=GMy6zPPujYff2Yc-_c6_fC4TbzkBqvOVjl_DbCCkT2Y&fp=random&sni=about.github.com&sid=7babf997&spx=%2Fapplecidersclub&flow=xtls-rprx-vision#mnt-dexter
