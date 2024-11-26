@@ -1,1 +1,1 @@
-vless://88e06fca-73e5-499a-ad33-c82c0b0b1d75@155.248.231.127:443?type=grpc&serviceName=&authority=&security=reality&pbk=oI8r4KNBFWircxxjlmjacdsTdHK7KVsGSnb-CeSj_EU&fp=chrome&sni=about.github.com&sid=7babf997&spx=%2F#mnt-dexter
+vless://05538b4c-d3c9-4bc9-8a51-b09745743203@204.216.107.161:443?type=grpc&mode=gun&security=reality&fp=random&sni=support.apple.com&pbk=Q2tEpopl1Nh8wInM2BsLjtwHIlWwfNViqcdF250okCA&sid=acb30a40&spx=/#mnt-dxtr
