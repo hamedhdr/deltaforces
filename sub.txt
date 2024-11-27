@@ -1,1 +1,1 @@
-vless://05538b4c-d3c9-4bc9-8a51-b09745743203@204.216.107.161:443?type=grpc&mode=gun&security=reality&fp=random&sni=support.apple.com&pbk=Q2tEpopl1Nh8wInM2BsLjtwHIlWwfNViqcdF250okCA&sid=acb30a40&spx=/#mnt-dxtr
+vless://0fefe701-85f8-4f5f-aefe-c9d365eee019@155.248.231.127:443?type=tcp&security=reality&pbk=6goBV9hdvanMQ-nEuifjuufA59Xn4lGJvtyyfb2Lx3g&fp=random&sni=about.github.com&sid=635e88fb9ab525&spx=%2F#mnt-dxtr
