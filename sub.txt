@@ -1,1 +1,1 @@
-vless://cc93885a-6087-487d-ad3a-5fbdf1e40871@155.248.232.209:443?type=ws&path=%2Fapplication&host=about.gitlab.com&security=none#mnt-dxtr
+vless://361fbd39-79dd-4f13-b08f-cb890f184aa8@204.216.107.161:443?type=ws&path=%2Fapply&host=about.gitlab.com&security=none#mnt-dxtr
