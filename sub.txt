@@ -1,1 +1,1 @@
-vless://361fbd39-79dd-4f13-b08f-cb890f184aa8@204.216.107.161:443?type=ws&path=%2Fapply&host=about.gitlab.com&security=none#mnt-dxtr
+vless://c8956845-ba25-4dd7-9226-e9c8b42aa97f@155.248.231.47:443?type=tcp&security=reality&pbk=cHyaqq4u9XBwfQkhMW5RM0t9wansXZ7hkganQHS_ahE&fp=firefox&sni=support.apple.com&sid=f266a3873ed3ab38&spx=%2Fsemitruck#mnt-dxtr
